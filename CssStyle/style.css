@@ -5,4 +5,15 @@ body {
   font-style: normal;
 }
 
-button {}
+#seatsChart h3 {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#seatsChart button {
+  background-color: aqua;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 50%;
+}
